@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729026822 source:c:\users\eduardo\desktop\ex1lista3pratica\ex1lista3pratica.c
+	<stdio.h>
+	<stdlib.h>
+
